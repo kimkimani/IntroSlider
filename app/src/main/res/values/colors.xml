@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#584b4f</color>
+
+    <!-- Screens background -->
+    <color name="bg_screen1">#53eadb</color>
+    <color name="bg_screen2">#21cad2</color>
+    <color name="bg_screen3">#00c8ff</color>
+
+
+    <!-- dots active colors -->
+    <color name="dot_active">#000000</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_inactive">#cccccc</color>
+
+</resources>
